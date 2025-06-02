@@ -1,6 +1,6 @@
 <div align="center">
 <h1>TSP Solver</h1>
-<h2>(Tugas Kecil 2 IF2211 Strategi Algoritma)</h2>
+<h2>(Tugas Tambahan IF2211 Strategi Algoritma)</h2>
 </div>
 
 ## Table of Contents
