@@ -20,7 +20,7 @@ Program ini menerima masukan berupa matriks biaya perjalanan antar kota dan meng
   - Jika belum, install dari: https://www.ruby-lang.org/en/downloads/
 - Clone repository ini:
   ```bash
-  git clone https://github.com/username/tsp-solver.git
+  git clone https://github.com/[username]/TSPSolver.git
   cd tsp-solver
   ```
 
@@ -34,13 +34,13 @@ Program ini menerima masukan berupa matriks biaya perjalanan antar kota dan meng
   ```
 - Contoh:
   ```bash
-  ruby main.rb sample.txt
+  ruby main.rb test.txt
   ```
 
 > **Catatan:** File input (`sample.txt`) harus disimpan dalam folder `tests`
 
 ### 2. Format Input
-File input merupakan file teks dengan format:
+Pastikan file input sudah berada dalam folder tests dan merupakan file .txt dengan format:
 ```
 N
 a_00 a_01 a_02 ... a_0(N-1)
